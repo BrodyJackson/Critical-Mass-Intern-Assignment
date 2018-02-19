@@ -1,27 +1,26 @@
 #  Critical Mass Interview Assignment
 ### Brody Jackson
 
-##### Three Examples of Projects I've Worked On
+#### Work / Project Examples
 
 
 * The first piece of work I’d like to share is a application I recently created to help students at the university rate washroom facilities on campus. Initially, the motivation for this project was to continue learning about the creation of RESTful API’s using Node.js, however it quickly turned into a full fledged application when I had the opportunity to build on it for a databases class. The service itself functions similar to the website “Rate My Professor” as students are able to leave reviews for bathrooms on campus, or search for them based on certain criteria. I began this project by creating a RESTful api with Express.js, which connects to a custom mySQL database containing washroom info. I was able to design a variety of endpoints for this API which successfully manipulated the information stored in the database using SQL queries. My next step was to flesh out the front end using React.js and ensure it was able use these endpoints to properly fetch and update the state of the app. Screenshots of the application can be found below and you can examine the project itself at the following github repo:
 
   [Github Link](https://github.com/BrodyJackson/Appointed)
  
-  ![alt text](https://picsum.photos/200/300)
-  ![alt text](https://picsum.photos/200/300)
+  ![alt text](../Images/screenshot1.png)
+  ![alt text](../Images/screenshot2.png)
   
 * Another project I’ve recently worked on is a medical booking system called Appointed. This was a group assignment for an HCI class where we were asked to build a full fledged system with user experience as the main concern. My role in this team was to create the overall design for the system, in addition to helping with the construction of the front end. This was a WPF application and as such we developed it using C# for functionality and XAML for the views. Through this work I learned a lot about creating products with user accessibility in mind, and the biggest challenge I faced was having to continuously refine the design as additional user types needed to be considered. Screenshots of this final design can be found below, and the github repo can be viewed at:
 
   [Github Link](https://github.com/BrodyJackson/PeeOrFlee)
  
-  ![alt text](https://picsum.photos/200/300)
-  ![alt text](https://picsum.photos/200/300)
+  ![alt text](https://github.com/BrodyJackson/Critical-Mass-Intern-Assignment/Images/Appointed.png)
   
 * The final thing I’d like to talk about is my work as an intern at White Whale analytics. Throughout this experience I worked on a variety of tasks for an analytics web application that the company was building. I took this opportunity to tackle problems on both the front end and back end of the system, and gained experience working with a variety of technologies. More specifically, I used React js to create responsive components that were utilized in the system, MongoDB to store important information on the backend of the system, and Hapi.js to create endpoints linking these two aspects together. This was an incredible experience, as not only was I able to increase my skills as a developer, but gain experience in a real industry environment.
 
 
-##### Three Examples of Work That Has Inspired Me 
+#### Inspiration
 
 
 * An article that really inspired me in a technical sense, is about the BEM CSS model (Block, Element, Modifier). Before reading this I didn’t give much thought to how I organized my styling, and worked with CSS by simply having a chaotic file full of rules. However, reading these guidelines changed that perspective and I have starting working to structure my CSS in a way that cuts down on confusion. I think this will have a large impact on the scalability of my projects, as I have found that having more organization in my styles makes them much easier to work with.
