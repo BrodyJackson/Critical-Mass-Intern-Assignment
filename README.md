@@ -6,14 +6,14 @@
 
 * The first piece of work I’d like to share is an application I recently created to help students at the University of Calgary rate the washroom facilities on campus. Initially, the motivation for this project was to continue learning about the creation of RESTful API’s using Node.js, however, it quickly turned into a full fledged application when I had the opportunity to build on it for a databases class. The service itself functions similar to the website “Rate My Professor” as students are able to leave reviews for bathrooms on campus, or search for them based on certain criteria. I began this project by creating a RESTful api with Express.js, which connects to a custom mySQL database containing washroom info. I was able to design a variety of endpoints for this API which successfully manipulate the information stored in the database using SQL queries. My next step was to flesh out the front-end using React.js and ensure these endpoints could be used to properly fetch and update the state of the app. Screenshots of the application can be found below and you can examine the project itself at the following github repo:
 
-  [Github Link](https://github.com/BrodyJackson/Appointed)
- 
+  [Github Link](https://github.com/BrodyJackson/PeeOrFlee)
+  
   ![alt text](Images/screenshot1.png)
   ![alt text](Images/screenshot2.png)
   
 * Another project I’ve recently worked on is a medical booking system called Appointed. This was a group assignment for an HCI class where we were asked to build a full fledged system with user experience as the main concern. My role in this team was to create the overall design for the system, in addition to helping with the construction of the front-end. This was a WPF application and as such we developed it using C# for functionality and XAML for the views. Through this work I learned a lot about how to create products with user accessibility in mind, without sacrificing the capabilities of the system. During this process the biggest challenge I faced was having to continuously refine the design as additional user types needed to be considered. Screenshots of this final design can be found below, and the github repo can be viewed at:
 
-  [Github Link](https://github.com/BrodyJackson/PeeOrFlee)
+  [Github Link](https://github.com/BrodyJackson/Appointed)
  
   ![alt text](Images/Appointed.png)
   
